@@ -17,15 +17,17 @@ h1 {
   margin: 30px 10%;
   font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 5rem;
+  font-size: 8vw;
+  font-weight: 1000;
   color: #4ecca3;
 }
 
 p {
-  font-size: 2rem;
+  font-size: 5vw;
   color: #4ecca3;
   font-family: "Lobster", cursive;
   margin: 1rem auto;
+  font-weight: 400;
 }
 
 img {
@@ -37,16 +39,17 @@ footer {
   color: #eeeeee;
   text-align: center;
   font-family: "Lobster", cursive;
+  font-size: 2vw;
 }
 button {
   display: block;
   background-color: #4ecca3;
   color: #393e46;
   border: 0;
-  width: 10rem;
-  height: 3rem;
+  width: 18vw;
+  height: 5vw;
   margin: 0.5rem auto;
   font-family: "Lobster", cursive;
-  font-size: 1.5rem;
+  font-size: 2.5vw;
   cursor: pointer;
 }
